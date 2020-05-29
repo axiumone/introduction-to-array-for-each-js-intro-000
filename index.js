@@ -5,7 +5,7 @@ function doToEvens(callback) {
 }
 
 // Add your doToElementsInArray() function here:
-fuinction doToElementsInArray(array, callback) {
+function doToElementsInArray(array, callback) {
   array.forEach(callback);
 }
 
